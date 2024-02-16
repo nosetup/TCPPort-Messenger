@@ -1,0 +1,35 @@
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe.config
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\bin\Debug\SerialPort Terminal.pdb
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\ResolveAssemblyReference.cache
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\GenerateResource.read.1.tlog
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\GenerateResource.write.1.tlog
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\SerialPort Terminal.exe
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Debug\SerialPort Terminal.pdb
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPort Terminal.csproj.AssemblyReference.cache
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPort Terminal.csproj.GenerateResource.cache
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPort Terminal.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPortTerminal.TVRemote.resources
+R:\VisualStudio\SerialPort Logging Terminal\bin\Debug\SerialPort Logging Utility.exe.config
+R:\VisualStudio\SerialPort Logging Terminal\bin\Debug\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Terminal\bin\Debug\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Terminal\obj\Debug\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Utility\bin\Debug\SerialPort Logging Utility.exe.config
+R:\VisualStudio\SerialPort Logging Utility\bin\Debug\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Utility\bin\Debug\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPort Terminal.csproj.AssemblyReference.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPortTerminal.frmAbout.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPortTerminal.frmTerminal.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPortTerminal.TVRemote.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPort Terminal.csproj.GenerateResource.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPort Terminal.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Utility\obj\Debug\SerialPort Logging Utility.pdb

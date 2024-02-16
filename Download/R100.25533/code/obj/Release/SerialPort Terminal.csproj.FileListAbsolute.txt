@@ -1,0 +1,59 @@
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\bin\Release\SerialPort Terminal.exe.config
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\bin\Release\SerialPort Terminal.exe
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\bin\Release\SerialPort Terminal.pdb
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\ResolveAssemblyReference.cache
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\SerialPortTerminal.frmAbout.resources
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\SerialPortTerminal.frmTerminal.resources
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\SerialPortTerminal.Properties.Resources.resources
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\GenerateResource.read.1.tlog
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\GenerateResource.write.1.tlog
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\SerialPort Terminal.exe
+C:\myMCU\SLIV\SLIV_WPF\SerialPort Terminal\obj\Release\SerialPort Terminal.pdb
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\bin\Release\SerialPort Terminal.exe.config
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\SerialPort Terminal.exe
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\SerialPort Terminal.pdb
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\bin\Release\SerialPort Terminal.exe
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\bin\Release\SerialPort Terminal.pdb
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\SerialPortTerminal.frmAbout.resources
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\SerialPortTerminal.frmTerminal.resources
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\SerialPortTerminal.Properties.Resources.resources
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Home\Desktop\Terminal Services\SerialPort Terminal\SerialPort Terminal\obj\Release\GenerateResource.write.1.tlog
+R:\VisualStudio\SerialPort LG TV Emulator\bin\Release\SerialPort Terminal.exe.config
+R:\VisualStudio\SerialPort LG TV Emulator\bin\Release\SerialPort Terminal.exe
+R:\VisualStudio\SerialPort LG TV Emulator\bin\Release\SerialPort Terminal.pdb
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPort Terminal.csproj.AssemblyReference.cache
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPortTerminal.frmAbout.resources
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPortTerminal.Properties.Resources.resources
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPort Terminal.csproj.GenerateResource.cache
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPort Terminal.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPort Terminal.exe
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPort Terminal.pdb
+R:\VisualStudio\SerialPort LG TV Emulator\obj\Release\SerialPortTerminal.frmTerminal.resources
+R:\VisualStudio\SerialPort TV Emulator\bin\Release\SerialPort TV Emulator.exe.config
+R:\VisualStudio\SerialPort TV Emulator\bin\Release\SerialPort TV Emulator.exe
+R:\VisualStudio\SerialPort TV Emulator\bin\Release\SerialPort TV Emulator.pdb
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPort Terminal.csproj.AssemblyReference.cache
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPortTerminal.frmAbout.resources
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPortTerminal.frmTerminal.resources
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPortTerminal.Properties.Resources.resources
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPort Terminal.csproj.GenerateResource.cache
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPort Terminal.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPort TV Emulator.exe
+R:\VisualStudio\SerialPort TV Emulator\obj\Release\SerialPort TV Emulator.pdb
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\SerialPort Logging Utility.exe.config
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Terminal.csproj.AssemblyReference.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.frmAbout.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.frmTerminal.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.Properties.Resources.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Terminal.csproj.GenerateResource.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Terminal.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.AboutBox.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.frmRSLKRemote.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.frmRS232Settings.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPortTerminal.TVRemote.resources
