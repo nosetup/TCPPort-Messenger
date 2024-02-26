@@ -1,0 +1,30 @@
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.csproj.AssemblyReference.cache
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\LogTerminal.AboutBox.resources
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\LogTerminal.FrmTerminal.resources
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.csproj.GenerateResource.cache
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.csproj.CoreCompileInputs.cache
+R:\VisualStudio\TCPIP Messenger P2P\bin\Release\TCPIP Messenger.exe.config
+R:\VisualStudio\TCPIP Messenger P2P\bin\Release\TCPIP Messenger.exe
+R:\VisualStudio\TCPIP Messenger P2P\bin\Release\TCPIP Messenger.pdb
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.exe
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.pdb
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\TCPIP Messenger.csproj.AssemblyReference.cache
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\LogTerminal.AboutBox.resources
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\LogTerminal.FrmTerminal.resources
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\LogTerminal.Properties.Resources.resources
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\TCPIP Messenger.csproj.GenerateResource.cache
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\TCPIP Messenger.csproj.CoreCompileInputs.cache
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\TCPIP Messenger.exe
+R:\TCPPort-Messenger\Download\R100.25533\code\obj\Release\TCPIP Messenger.pdb
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\bin\Release\TCPIP Messenger.exe.config
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\bin\Release\TCPIP Messenger.exe
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\bin\Release\TCPIP Messenger.pdb
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\TCPIP Messenger.csproj.AssemblyReference.cache
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\LogTerminal.AboutBox.resources
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\LogTerminal.FrmTerminal.resources
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\LogTerminal.Properties.Resources.resources
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\TCPIP Messenger.csproj.GenerateResource.cache
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\TCPIP Messenger.csproj.CoreCompileInputs.cache
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\TCPIP Messenger.exe
+R:\TCPPort-Messenger\Download\R100.25533\code\TCPPort-Messenger\obj\Release\TCPIP Messenger.pdb
