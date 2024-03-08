@@ -1,0 +1,78 @@
+﻿//****************************************************************************
+//****************************************************************************
+/** START SUMMARY
+FEATURES
+TCP Messenging - Send/Receive and log the exchanged TCP messages.
+Server -
+    Server IP based on Adapter Selected
+Client -
+    Connects to IP address/port number
+Network Utilities -
+    Subnet Device Ping - List all devices in network
+    Get Host Name - Get and Print Host Name if available
+    Combined Device Ping and Get Host Name
+
+
+DEBUG FEATURES
+Additional Trace output
+Additional WPF Buttons
+
+
+
+END SUMMARY**/
+//****************************************************************************
+//****************************************************************************
+/** START CHANGE NOTES
+WISHLIST
+Add more NetworkAdapter management Tools
+    Modify to custom Server IP Address and restore when program closed (Perhaps add checkbox to allow user to decide if restore needed)
+
+Needs more testing to ensure socket properly will close during unexpected exits.
+By Ver 1.2 or 1.3, clean up the debug TraceWrite
+
+Ver 1.1.0.* {Known Issues} {NLD}
+
+Ver 1.1.0.* {Release Notes} {NLD}
+Adds Installer (Debug and Released Build)
+Adds Server supports multiple Clients
+    Adds ability to list connected clients
+    Adds ability to "boot" a connected client
+    Adds ability to "send message directly to client"
+Adds Debug build allows different instance of Client to connect by Clicking Connect repeatly
+Fixed unable to disconnect socket at TCPIPConnect.
+    During connect only allow 1 listener object to be open.
+    Fixed disconnect method to track listener object + ability to close all.
+Fixed System.InvalidOperationException: 'No row can be added to a DataGridView 
+    Caused by FormClosing calling methods that end with Invoke update to log window.
+    Fix with adding check for IsDisposed check before adding row to DGV 
+    Further improved by checking Null & ColumnCount.
+Improvements made for 'Slow Scan' to release UI.
+
+Ver 1.0.0.* {Release Notes} {NLD}
+Initial Release (no installer)
+
+Ver 1.0.0.* {Known Issues} {NLD}
+Unable to disconnect socket, would get in a state that cannot reopen socket because another instance is already active with error
+    "Server error: Only one usage of each socket address (protocol/network address/port) is normally permitted"
+    Repro: Connect > Connect > Disconnect > Connect
+Limited to 1 client (most teseting done for 1 client)
+Unhandled DGV UI exception
+    System.InvalidOperationException: 'No row can be added to a DataGridView control that does not have columns. Columns must be added first.'
+    Repro: (DebugBuild) Log Window Clear All > Server Connect (or anything that logs a "single row" message)
+
+//template
+Ver major.minor.bugs.revision/*build {type} {author}
+
+END CHANGE NOTES**/
+//****************************************************************************
+//****************************************************************************
+/** START RELEASE INSTRUCTIONS
+
+1. Update revision number at AssemblyInfo.cs
+2. Select build configuration
+3. Build with Installer (Build configuration is kept seperately)
+4. Install + Verify Revision Numbers. Rename installer after verification.
+
+ END RELEASE INSTRUCTIONS**/
+  //****************************************************************************
+//****************************************************************************

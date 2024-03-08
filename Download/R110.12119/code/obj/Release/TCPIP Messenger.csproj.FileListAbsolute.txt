@@ -1,0 +1,11 @@
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.csproj.AssemblyReference.cache
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\LogTerminal.AboutBox.resources
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\LogTerminal.FrmTerminal.resources
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.csproj.GenerateResource.cache
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.csproj.CoreCompileInputs.cache
+R:\VisualStudio\TCPIP Messenger P2P\bin\Release\TCPIP Messenger.exe.config
+R:\VisualStudio\TCPIP Messenger P2P\bin\Release\TCPIP Messenger.exe
+R:\VisualStudio\TCPIP Messenger P2P\bin\Release\TCPIP Messenger.pdb
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.exe
+R:\VisualStudio\TCPIP Messenger P2P\obj\Release\TCPIP Messenger.pdb

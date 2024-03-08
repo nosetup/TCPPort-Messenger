@@ -1,0 +1,6 @@
+R:\VisualStudio\myLib\obj\Debug\net8.0\myLib.csproj.AssemblyReference.cache
+R:\VisualStudio\myLib\obj\Debug\net8.0\myLib.GeneratedMSBuildEditorConfig.editorconfig
+R:\VisualStudio\myLib\obj\Debug\net8.0\myLib.AssemblyInfoInputs.cache
+R:\VisualStudio\myLib\obj\Debug\net8.0\myLib.AssemblyInfo.cs
+R:\VisualStudio\myLib\obj\Debug\net8.0\myLib.csproj.CoreCompileInputs.cache
+R:\VisualStudio\myLib\obj\Debug\net8.0\myLib.sourcelink.json

@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\TCPPort-Messenger\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|R:\\spacex\\csharp\\TestUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|TCPIP Messenger.csproj|r:\\tcpport-messenger\\download\\r100.25533\\code\\tcpport-messenger\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|TCPIP Messenger.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|TCPIP Messenger.csproj|r:\\tcpport-messenger\\download\\r100.25533\\code\\tcpport-messenger\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|TCPIP Messenger.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|TCPIP Messenger.csproj|r:\\tcpport-messenger\\download\\r100.25533\\code\\mylib\\tcpipinterface\\networkadaptermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE71346-25BB-4D3D-B91E-EE027947F8D9}|TCPIP Messenger.csproj|r:\\tcpport-messenger\\download\\r100.25533\\code\\mylib\\tcpipinterface\\networkutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestUtil.cs",
+              "DocumentMoniker": "R:\\spacex\\csharp\\TestUtil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spacex\\csharp\\TestUtil.cs",
+              "ToolTip": "R:\\spacex\\csharp\\TestUtil.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\spacex\\csharp\\TestUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:51:15.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\TCPPort-Messenger\\Terminal.cs",
+              "RelativeDocumentMoniker": "Terminal.cs",
+              "ToolTip": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\TCPPort-Messenger\\Terminal.cs",
+              "RelativeToolTip": "Terminal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:19:01.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terminal.cs [Design]",
+              "DocumentMoniker": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\TCPPort-Messenger\\Terminal.cs",
+              "RelativeDocumentMoniker": "Terminal.cs",
+              "ToolTip": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\TCPPort-Messenger\\Terminal.cs [Design]",
+              "RelativeToolTip": "Terminal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:18:57.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkAdapterMgr.cs",
+              "DocumentMoniker": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\myLib\\TcpIpInterface\\NetworkAdapterMgr.cs",
+              "RelativeDocumentMoniker": "..\\myLib\\TcpIpInterface\\NetworkAdapterMgr.cs",
+              "ToolTip": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\myLib\\TcpIpInterface\\NetworkAdapterMgr.cs",
+              "RelativeToolTip": "..\\myLib\\TcpIpInterface\\NetworkAdapterMgr.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:02:24.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkUtil.cs",
+              "DocumentMoniker": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\myLib\\TcpIpInterface\\NetworkUtil.cs",
+              "RelativeDocumentMoniker": "..\\myLib\\TcpIpInterface\\NetworkUtil.cs",
+              "ToolTip": "R:\\TCPPort-Messenger\\Download\\R100.25533\\code\\myLib\\TcpIpInterface\\NetworkUtil.cs",
+              "RelativeToolTip": "..\\myLib\\TcpIpInterface\\NetworkUtil.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:02:21.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

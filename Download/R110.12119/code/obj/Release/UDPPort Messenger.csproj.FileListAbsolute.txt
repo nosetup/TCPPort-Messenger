@@ -1,0 +1,11 @@
+R:\VisualStudio\UDPPort Messenger\bin\Release\UDPPortMessenger.exe.config
+R:\VisualStudio\UDPPort Messenger\bin\Release\UDPPortMessenger.exe
+R:\VisualStudio\UDPPort Messenger\bin\Release\UDPPortMessenger.pdb
+R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPort Messenger.csproj.AssemblyReference.cache
+R:\VisualStudio\UDPPort Messenger\obj\Release\LogTerminal.AboutBox.resources
+R:\VisualStudio\UDPPort Messenger\obj\Release\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPort Messenger.csproj.GenerateResource.cache
+R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPort Messenger.csproj.CoreCompileInputs.cache
+R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPortMessenger.exe
+R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPortMessenger.pdb
+R:\VisualStudio\UDPPort Messenger\obj\Release\LogTerminal.FrmTerminal.resources
